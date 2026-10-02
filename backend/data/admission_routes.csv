@@ -1,0 +1,6 @@
+﻿college_name,course_name,entrance_exam_name,minimum_percentage,required_subjects,admission_year,other_requirements
+National Institute of Technology Test Campus,B.Tech Computer Science and Engineering,JEE Main,75,Physics; Chemistry; Mathematics,2026,Valid JEE Main score required.
+National Institute of Technology Test Campus,B.Tech Electronics and Communication Engineering,JEE Main,75,Physics; Chemistry; Mathematics,2026,Valid JEE Main score required.
+Sunrise Institute of Technology,B.Tech Computer Science and Engineering,JEE Main,50,Physics; Chemistry; Mathematics,2026,Valid JEE Main score accepted.
+Sunrise Institute of Technology,B.Tech Computer Science and Engineering,CUET,50,Physics; Chemistry; Mathematics,2026,Valid CUET score accepted.
+Sunrise Institute of Technology,B.Tech Computer Science and Engineering,,50,Physics; Chemistry; Mathematics,2026,Direct admission route for testing.

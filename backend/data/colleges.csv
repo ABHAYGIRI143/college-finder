@@ -1,0 +1,3 @@
+﻿name,city,state,college_type,website,description
+National Institute of Technology Test Campus,Jaipur,Rajasthan,GOVERNMENT,https://example.com/nit-test,Test government college record for importer validation.
+Sunrise Institute of Technology,Lucknow,Uttar Pradesh,PRIVATE,https://example.com/sunrise-test,Test private college record for importer validation.
